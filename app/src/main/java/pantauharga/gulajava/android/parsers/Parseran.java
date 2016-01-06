@@ -200,13 +200,9 @@ public class Parseran {
 
     //KONVERSI POJO KE JSON LOGIN
     public String konversiPojoJsonLogin(LoginKirim loginKirim) {
-
         String json;
-
         try {
-
             json = JSON.std.asString(loginKirim);
-
         } catch (Exception e) {
             e.printStackTrace();
             json = "";

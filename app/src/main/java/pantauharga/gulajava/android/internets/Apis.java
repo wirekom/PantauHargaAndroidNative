@@ -42,7 +42,10 @@ public class Apis {
     public static String getLinkLaporHargaKomoditas() {
         return Konstan.ALAMATSERVER + "/Api/input.json";
     }
-
+    //Laporkan Pesan Komoditas
+    public static String getLinkPesanKomoditas() {
+        return Konstan.ALAMATSERVER + "/Api/inputRequest.json";
+    }
     //AMBIL DAFTAR KOMODITAS
     ///Api/comodityall.json
     public static String getLinkDaftarKomoditas() {

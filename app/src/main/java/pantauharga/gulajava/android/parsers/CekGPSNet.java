@@ -42,15 +42,15 @@ public class CekGPSNet {
 
 
     //cek status internet dan balikkan nilainya
-    public boolean cekStatsInternet() {
+        public boolean cekStatsInternet() {
 
-        netinfo = conmanager.getActiveNetworkInfo();
+            netinfo = conmanager.getActiveNetworkInfo();
 
-        isInternet = netinfo != null && netinfo.isConnected();
+            isInternet = netinfo != null && netinfo.isConnected();
 
-        Log.w("TAG INTERNET CLASS", isInternet + "");
+            Log.w("TAG INTERNET CLASS", isInternet + "");
 
-        return isInternet;
+            return isInternet;
     }
 
 

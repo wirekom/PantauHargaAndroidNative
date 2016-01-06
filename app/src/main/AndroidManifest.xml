@@ -84,6 +84,17 @@
             </intent-filter>
         </activity>
 
+        <activity
+            android:name="pantauharga.gulajava.android.aktivitas.PesanKomoditas"
+            android:label="@string/lapor_kirimdatapesan"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.NOLAUNCHER"/>
+            </intent-filter>
+        </activity>
+
 
         <activity
             android:name="pantauharga.gulajava.android.aktivitas.PetaAmbilLokasi"

@@ -13,6 +13,7 @@
     <!-- MENU APLIKASI -->
     <string name="ic_teks_menu_kirimharga">Kirim Harga</string>
     <string name="ic_teks_menu_jualkomoditas">Jual Komoditas</string>
+    <string name="ic_teks_menu_belikomoditas">Pesan Komoditas</string>
     <string name="ic_teks_menu_datapengguna">Data Pengguna</string>
     <string name="ic_teks_menu_riwayatlaporan">Riwayat Laporan</string>
     <string name="ic_teks_menu_tentangapp">Tentang Aplikasi</string>
@@ -68,6 +69,7 @@
 
 
     <string name="karakterboleh">qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890_</string>
+    <string name="karakterbolehemail">qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890_@.</string>
     <string name="karakterbolehnama">qwertyuiopasdfghjklz xcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890_</string>
 
     <string name="login_login">Masuk Pantau Harga</string>
@@ -127,6 +129,10 @@
     <string name="teks_dialog_kirim">KIRIM LAGI</string>
     <string name="teks_dialog_selesai">SELESAI</string>
 
+    <!--KIRIM PESANAN KOMODITAS -->
+    <string name="lapor_keteranganpesan">Pesan Komoditas pangan dengan mengisi data berikut dengan benar</string>
+    <string name="lapor_kirimdatapesan">PESAN KOMODITAS</string>
+    <string name="lapor_okkirimdatapesan">Data transaksi pembelian anda telah dikirim</string>
 
     <!-- PETA LOKASI -->
     <string name="petaambil_judulhalaman">Peta Ambil Lokasi</string>

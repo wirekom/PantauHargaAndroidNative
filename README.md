@@ -18,9 +18,6 @@ Aplikasi ini juga membutuhkan beberapa hal agar kode sumbernya bisa dibuka :
 
 > Jika ingin **berkontribusi dengan menggunakan source code ini**, silahkan hubungi pihak Pantau Harga, yang mana kontaknya ada di bawah halaman Readme.
 
-
-
-
 #### **Versi Redesain dan Optimasi**
 ```sh
 1.0.0
